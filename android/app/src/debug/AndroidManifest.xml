@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Permissão de INTERNET usada em desenvolvimento para comunicação
+         entre o Flutter tooling e o app em execução. -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>
